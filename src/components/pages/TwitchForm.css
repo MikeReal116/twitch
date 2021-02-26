@@ -1,0 +1,30 @@
+.create__container{
+    padding: 1rem;
+    font-family:'Josefin Sans', sans-serif;
+}
+.create__header{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+.form__content{
+    margin-bottom: 1rem;
+}
+.form__label{
+     color:#777;
+     font-weight: 400;
+}
+.form__input{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.form__input:focus{
+    outline: none;
+}
+.form__error{
+    font-weight: 400;
+    padding: 12px;
+    color: red;
+}
